@@ -1,41 +1,16 @@
-# Photo Viewer App
+# earnipay_assesment
 
-This is a Flutter application that allows you to browse and view a collection of photos fetched from the Unsplash API.
+A new Flutter project.
 
 ## Getting Started
 
-To get started with the app, follow these steps:
+This project is a starting point for a Flutter application.
 
-1. Make sure you have Flutter installed on your machine. If not, refer to the [Flutter Installation Guide](https://flutter.dev/docs/get-started/install) to set up Flutter.
+A few resources to get you started if this is your first Flutter project:
 
-2. Clone this repository to your local machine using Git:
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-
-3. Navigate to the project directory:
-
-
-4. Fetch the project dependencies by running the following command:
-
-
-5. Connect your device or start the emulator.
-
-6. Launch the app by running the following command:
-
-
-This will compile the Flutter app and install it on your connected device or emulator. You should now be able to see the Photo Viewer app running on your device.
-
-## Running Tests
-
-To execute the tests for this project, follow these steps:
-
-1. Ensure that you are in the project directory (`photo-viewer-app`).
-
-2. Run the tests using the following command:
-
-flutter test
-
-
-This will run all the unit tests defined in the project. You should see the test results displayed in the console.
-
-If any tests fail, you will be provided with information about the failure and the specific test that caused it.
-
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
